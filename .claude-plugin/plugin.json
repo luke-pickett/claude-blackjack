@@ -1,0 +1,6 @@
+{
+  "name": "blackjack",
+  "version": "0.2.0",
+  "description": "A blackjack table in a pane beside the chat: play with fake money while Claude works, with fresh chips every five-hour usage window and records of each window's best and worst.",
+  "types": "./types/index.d.ts"
+}
